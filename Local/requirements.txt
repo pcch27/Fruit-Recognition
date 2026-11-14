@@ -1,0 +1,16 @@
+# 本機（Windows / Mac / Linux）使用。建議 Python 3.10 ~ 3.12。
+# Gradio 4.44.0 搭配新版 starlette 會壞掉（TypeError: unhashable type: 'dict'），所以下面這幾個版本要釘住。
+gradio==4.44.0
+gradio_client==1.3.0
+fastapi==0.112.2
+starlette==0.37.2
+pydantic==2.10.6
+huggingface_hub==0.34.4
+torch
+torchvision
+ultralytics
+Pillow
+numpy
+pyyaml
+opencv-python-headless
+openpyxl
