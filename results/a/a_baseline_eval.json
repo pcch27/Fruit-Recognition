@@ -1,0 +1,20 @@
+{
+  "white_100_test": {
+    "n": 5000,
+    "top1": 0.8406,
+    "top3": 0.9764
+  },
+  "white_original_test": {
+    "n": 5000,
+    "top1": 0.8536,
+    "top3": 0.987
+  },
+  "real_test": {
+    "single_n": 97,
+    "multi_n": 12,
+    "single_top1": 0.09278350515463918,
+    "single_top3": 0.3711340206185567,
+    "multi_found_ratio": 0.1369047619047619,
+    "multi_any_in_top3": 0.25
+  }
+}

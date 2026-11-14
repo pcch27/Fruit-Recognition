@@ -1,0 +1,94 @@
+{
+  "model": "baseline",
+  "white_source": "both",
+  "families": [
+    "apple",
+    "apricot",
+    "avocado",
+    "banana",
+    "blackberry",
+    "blueberry",
+    "cactus",
+    "cantaloupe",
+    "carambola",
+    "cherimoya",
+    "cherry",
+    "clementine",
+    "cocos",
+    "dates",
+    "fig",
+    "gooseberry",
+    "granadilla",
+    "grape",
+    "grapefruit",
+    "guava",
+    "huckleberry",
+    "kaki",
+    "kiwi",
+    "kumquats",
+    "lemon",
+    "limes",
+    "lychee",
+    "mandarine",
+    "mango",
+    "mangostan",
+    "maracuja",
+    "melon",
+    "mulberry",
+    "nectarine",
+    "orange",
+    "papaya",
+    "passion",
+    "peach",
+    "pear",
+    "pepino",
+    "physalis",
+    "pineapple",
+    "pitahaya",
+    "plum",
+    "pomegranate",
+    "pomelo",
+    "quince",
+    "rambutan",
+    "raspberry",
+    "redcurrant",
+    "salak",
+    "strawberry",
+    "tamarillo",
+    "tangelo",
+    "watermelon"
+  ],
+  "stage1_white": {
+    "100_test": {
+      "n": 5000,
+      "top1": 0.8848,
+      "top3": 0.9888
+    },
+    "original_test": {
+      "n": 5000,
+      "top1": 0.9108,
+      "top3": 0.9942
+    }
+  },
+  "stage2_best_epoch": 3,
+  "final_white": {
+    "100_test": {
+      "n": 5000,
+      "top1": 0.8406,
+      "top3": 0.9764
+    },
+    "original_test": {
+      "n": 5000,
+      "top1": 0.8536,
+      "top3": 0.987
+    }
+  },
+  "final_real_test": {
+    "single_n": 97,
+    "multi_n": 12,
+    "single_top1": 0.09278350515463918,
+    "single_top3": 0.3711340206185567,
+    "multi_found_ratio": 0.1369047619047619,
+    "multi_any_in_top3": 0.25
+  }
+}
