@@ -36,5 +36,5 @@ Fruit-Recognition/
 │   ├── samples/                   範例照片（照片放這裡，出處見 README.txt）
 │   └── UPLOAD.md                  要上傳哪些檔案
 │
-└── docs/                          簡報：作品集、完整版（pptx）與作品集 PDF
+└── docs/                          簡報：作品集、完整版（PDF）
 ```
