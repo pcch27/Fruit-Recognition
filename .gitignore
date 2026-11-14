@@ -1,0 +1,9 @@
+data/
+runs/
+__pycache__/
+*.pyc
+*.zip
+.venv/
+.ipynb_checkpoints/
+rerun_images/
+results/b_sanity/
