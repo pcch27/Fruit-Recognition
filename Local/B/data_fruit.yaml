@@ -1,0 +1,31 @@
+path: /content/dfv_fruit
+train: images/train
+val: images/val
+names:
+  0: Apple
+  1: Apricot
+  2: Banana
+  3: Cherry
+  4: DragonFruit
+  5: Durian
+  6: Fig
+  7: Grape
+  8: Lemon
+  9: Lime
+  10: Lychee
+  11: Mango
+  12: Orange
+  13: Peach
+  14: Pear
+  15: Pineapple
+  16: Plum
+  17: Pomegranate
+  18: Quince
+  19: Strawberry
+  20: Watermelon
+  21: Kiwi
+  22: Raspberry
+  23: Blackberry
+  24: Cantaloupe
+  25: Jackfruit
+test: images/test
