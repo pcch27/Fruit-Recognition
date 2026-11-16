@@ -3,7 +3,7 @@
 整合水果影像分類與物件偵測，包含 A 分類（Baseline CNN、ResNet18、MobileNetV2）及 B 偵測（YOLOv8s，26 類），並使用 Gradio 建立操作介面。
 
 **線上 Demo：** [Hugging Face Spaces – Fruit Recognition](https://huggingface.co/spaces/PCChen27/Fruit-Recognition)  
-**專題簡報：** `docs/水果影像辨識_作品集.pdf`（13 頁）、`docs/水果影像辨識_完整版.pdf`（56 頁）
+**專題簡報：** `docs/水果影像辨識_作品集.pdf`、`docs/水果影像辨識_完整版.pdf`
 
 ## 重點結果（取自專題簡報）
 
