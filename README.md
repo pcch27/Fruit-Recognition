@@ -76,7 +76,7 @@ Fruit-Recognition/
 │   ├── b_infer.py                 B 偵測推論
 │   ├── requirements.txt           本機需要的套件
 │   ├── run_local.bat              第一次執行：建立環境並啟動
-│   ├── start_app.bat           啟動介面
+│   ├── start_app.bat              啟動介面
 │   ├── models/                    模型權重
 │   │   ├── a_resnet18.pth
 │   │   ├── a_mobilenetv2.pth
@@ -126,7 +126,7 @@ Fruit-Recognition/
 - 作者：Mihai Oltean。
 - Kaggle：[Fruits-360 Dataset](https://www.kaggle.com/datasets/moltean/fruits)。
 - 授權：CC BY-SA 4.0，使用時需標註出處，改作需以相同條款分享。
-- `real_test109` 取自 2026 年 9 月版本的多水果（multi）測試影像，本專案從中整理 109 張未參與 A 模型訓練的照片作為測試資料，正確答案由本專案自行標註。
+- `real_test109` 取自 multi 資料夾（Version 2026.09.20.0）的多水果測試影像，本專案從中整理 109 張未參與 A 模型訓練的照片作為測試資料，正確答案由本專案自行標註。
 
 原始論文：
 
