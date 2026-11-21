@@ -143,6 +143,8 @@ Horea Mureşan、Mihai Oltean，*Fruit recognition from images using deep learni
 
 **其他補充資料**
 
+為補充奇異果、覆盆子、黑莓、哈密瓜、菠蘿蜜 5 類，B 偵測另使用下列公開資料集。各資料集的作者與授權見 `Local/models/README.md`。
+
 - LVIS。
 - FruitDet（Hugging Face）。
 - Jackfruit（Roboflow）。
